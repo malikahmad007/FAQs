@@ -1,0 +1,2 @@
+# FAQs
+GDSC CUI task
